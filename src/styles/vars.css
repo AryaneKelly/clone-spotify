@@ -1,0 +1,11 @@
+:root {
+    --cor-fundo-principal: #000000;
+    --cor-sidebar: #121212;
+    --cor-sec-sidebar: #242424;
+    --cor-prin-fonte: #b3b3b3;
+    --cor-dest-fonte: #ffffff;
+    --bg-icon:#131313;
+    --bg-arrow-color:rgba(0,0,0,7);
+
+    --fonte-principal: "DM Sans", sans-serif;
+}
